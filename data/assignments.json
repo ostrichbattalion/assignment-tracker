@@ -1,0 +1,100 @@
+{
+    "active": [
+        {
+            "type": "assessment",
+            "title": "Big Data & IOT",
+            "date_str": "2026-05-19",
+            "target_hours": 15.0,
+            "hours_studied": 15.0,
+            "sessions": [
+                {
+                    "date": "2026-05-18",
+                    "hours": 12.0
+                },
+                {
+                    "date": "2026-05-25",
+                    "hours": 3.0
+                }
+            ],
+            "archived": false
+        },
+        {
+            "type": "assessment",
+            "title": "Stats for Data Science",
+            "date_str": "2026-05-26",
+            "target_hours": 20.0,
+            "hours_studied": 0.0,
+            "sessions": [],
+            "archived": false
+        },
+        {
+            "type": "assignment",
+            "title": "STATS",
+            "date_str": "2026-05-28",
+            "total_q": 3,
+            "completed_q": 3,
+            "archived": false
+        },
+        {
+            "type": "assignment",
+            "title": "ML",
+            "date_str": "2026-05-28",
+            "total_q": 6,
+            "completed_q": 2,
+            "archived": false
+        }
+    ],
+    "archived": [
+        {
+            "type": "assignment",
+            "title": "IS",
+            "date_str": "2026-04-10",
+            "total_q": 3,
+            "completed_q": 3,
+            "archived": true
+        },
+        {
+            "type": "assignment",
+            "title": "BD",
+            "date_str": "2026-04-24",
+            "total_q": 4,
+            "completed_q": 4,
+            "archived": true
+        },
+        {
+            "type": "assignment",
+            "title": "PROG",
+            "date_str": "2026-04-24",
+            "total_q": 7,
+            "completed_q": 7,
+            "archived": true
+        },
+        {
+            "type": "assessment",
+            "title": "Information Systems",
+            "date_str": "2026-05-04",
+            "target_hours": 15.0,
+            "hours_studied": 2.5,
+            "sessions": [],
+            "archived": true
+        },
+        {
+            "type": "assessment",
+            "title": "Machine Learning",
+            "date_str": "2026-05-08",
+            "target_hours": 20.0,
+            "hours_studied": 3.0,
+            "sessions": [],
+            "archived": true
+        },
+        {
+            "type": "assessment",
+            "title": "Programming",
+            "date_str": "2026-05-13",
+            "target_hours": 25.0,
+            "hours_studied": 0.0,
+            "sessions": [],
+            "archived": true
+        }
+    ]
+}
